@@ -8,13 +8,13 @@ This repository contains the supplementary materials accompanying the publicatio
 
 | File / Folder | Description |
 |---|---|
-| `Notebook (Supplementary Materials A).ipynb` | Jupyter notebook (Supplementary Materials A) containing all analysis code, including manual coding rounds, LLM-based classifier development, and external validation against NHS England Staff Survey data. |
+| `Notebook (Supplementary Materials A).ipynb` | Jupyter notebook (Supplementary Materials A) containing all analysis code, including manual coding reliability results, LLM-based classifier development, and external validation against NHS England Staff Survey data. |
 | `Supplementary Materials A.html` | Static HTML export of the notebook — viewable in any browser without running any code. |
-| `Supplementary Materials B.pdf` | PDF document (Supplementary Materials B). |
-| `final_data/full_dataset.csv` | Full dataset used in the analysis. |
-| `final_data/IRRdata.csv` | Inter-rater reliability data from the manual coding rounds. |
-| `final_data/train_results.csv` | Classifier training results. |
-| `final_data/test_results.csv` | Classifier test/evaluation results. |
+| `Supplementary Materials B.pdf` | Manual codebook for scoring engagement and organisational responses. |
+| `final_data/IRRdata.csv` | Inter-rater reliability data from the manual coding rounds (RQ1). |
+| `final_data/train_results.csv` | Classifier training results (RQ2). |
+| `final_data/test_results.csv` | Classifier evaluation results (RQ2). |
+| `final_data/full_dataset.csv` | Full dataset used in the quantitative analysis (RQ3). |
 
 ---
 
