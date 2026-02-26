@@ -1,6 +1,6 @@
 # Supplementary Materials
 
-This repository contains the supplementary materials accompanying the publication.
+This repository contains the supplementary materials accompanying the publication: *Measuring Corrective Culture in Hospital Responses to Patient Concerns about Safety and Quality Raised Online*.
 
 ---
 
